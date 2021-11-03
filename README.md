@@ -1,16 +1,5 @@
-# flutter_cat
+## 使用Flutter制作一个猫咪品种识别APP
+掘金地址：[点击](https://juejin.cn/post/7026331850805084197)
+## 效果
+https://user-images.githubusercontent.com/26619749/140068283-a631da6d-ba63-43d6-8935-4b9e5db4947c.mp4
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
